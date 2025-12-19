@@ -13,5 +13,5 @@ Features
 Tech Stack
 	•	Frontend: React.js, Tailwind CSS
 	•	Backend: Node.js, Express.js
-	•	APIs: REST API for communication
-	•	State Management: React Hooks (useState, useEffect, useRef)
+
+	
